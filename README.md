@@ -1,4 +1,6 @@
-### Hi there 👋
+## Hi I am Deep Makadiya
+
+<img src="https://github-readme-stats.vercel.app/api?username=mac-deep&theme=blue-green&count_private=true&show_icons=true" alt="" />  <img  src="https://github-readme-streak-stats.herokuapp.com?user=mac-deep&theme=blue-green&hide_border=true" alt="" />
 
 <!--
 **mac-deep/mac-deep** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
