@@ -2,7 +2,7 @@
 ###  About Me
 - 👨‍💻 I’m currently working on web development technologies like JavaScript, React etc.
 - 📚 I’m currently learning everything about both node.js
-- ⚡ Fun fact: I love to make music and  🎱.
+- ⚡ Fun fact: I love to make music.
 
 ### 📈 Git Stats
 <img width="50%" src="https://github-readme-stats.vercel.app/api?username=mac-deep&theme=blue-green&count_private=true&show_icons=true" alt="" /><img width="50%" src="https://github-readme-streak-stats.herokuapp.com?user=mac-deep&theme=blue-green&hide_border=true" alt="" />
