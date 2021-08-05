@@ -1,7 +1,7 @@
 # Hi, I'm Deep Makadiya ✨
 ###  About Me
-- 👨‍💻 I’m currently working on web development technologies like JavaScript, React etc.
-- 📚 I’m currently learning nodejs.
+- 👨‍💻 I’m currently working on web development technologies like React, Nextjs  etc.
+- 📚 I’m currently learning Expressjs.
 - 🎼 Fun fact: I love to make music.
 
 ### 📈 Git Stats
